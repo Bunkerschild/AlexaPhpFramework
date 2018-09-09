@@ -1,0 +1,22 @@
+{
+  "directive": {
+    "header": {
+      "namespace": "Alexa.BrightnessController",
+      "name": "AdjustBrightness",
+      "payloadVersion": "3",
+      "messageId": "11111111-2222-3333-44444444444444444",
+      "correlationToken": "xxxxxxxxxxxxXXXXXXXXXXXXXXXXxxxxxxxxxxx=="
+    },
+    "endpoint": {
+      "scope": {
+        "type": "BearerToken",
+        "token": "access-token-from-Amazon"
+      },
+      "endpointId": "appliance-001",
+      "cookie": {}
+    },
+    "payload": {
+      "brightnessDelta": 3
+    }
+  }
+}

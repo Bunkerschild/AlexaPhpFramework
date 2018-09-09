@@ -1,0 +1,22 @@
+{
+  "directive": {
+    "header": {
+      "namespace": "Alexa.BrightnessController",
+      "name": "SetBrightness",
+      "payloadVersion": "3",
+      "messageId": "11111111-2222-3333-44444444444444444",
+      "correlationToken": "xxxxxxxxxxxxxXXXXXXXXXXXxxxxxxxx=="
+    },
+    "endpoint": {
+      "scope": {
+        "type": "BearerToken",
+        "token": "access-token-from-skill"
+      },
+      "endpointId": "appliance-001",
+      "cookie": {}
+    },
+    "payload": {
+      "brightness": 42
+    }
+  }
+}

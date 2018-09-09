@@ -1,0 +1,4 @@
+ {"session":            
+{"sessionId":"SessionId.11111111-2222-3333-4444-555555555555","application":{"applicationId":"amzn1.ask.skill.bbbbbbbb-tttt-yyyy-zzzz-xxxxxxxxxxxx"},"attributes":{},"user":{"userId":"amzn1.ask.account.BLABLABLA","accessToken":null},"new":false},
+"request":
+{"intent":{"name":"LocalBroadcast","slots":{"Artist":{"name":"Artist"},"Title":{"name":"Title"}}},"requestId":"EdwRequestId.11111111-2222-3333-4444-5555555555","type":"IntentRequest","locale":"de-DE","timestamp":"2018-01-14T15:41:26Z"},"context":{"AudioPlayer":{"playerActivity":"IDLE"},"System":{"application":{"applicationId":"amzn1.ask.skill.llllllll-qqqq-eeee-jjjj-mmmmmmmmmm"},"user":{"userId":"amzn1.ask.account.BLABLABLA"},"device":{"supportedInterfaces":{}}}},"version":"1.0"}
